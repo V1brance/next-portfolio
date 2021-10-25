@@ -1,0 +1,32 @@
+.navBar {
+  width: 90vw;
+  height: 50px;
+  border-bottom: 3px solid darkslategray;
+  margin: auto;
+}
+
+.navList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  width: 30%;
+}
+
+.homeButton {
+  font-size: 25px;
+  font-weight: 700;
+  color: darkslategray;
+  margin: auto;
+}
+
+.navItem {
+  font-size: 19px;
+  margin: auto;
+  color: darkslategray;
+  font-weight: 400;
+}
+
+.homeButton:hover,
+.navItem:hover {
+  text-decoration: underline;
+}
