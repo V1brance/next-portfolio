@@ -29,6 +29,9 @@ export default function intro() {
           the the "basics" of web development like HTML, CSS, and Javascript.
           <br />
           <br />
+          While I am currently seeking traditional employment, if you have
+          freelance opportunities I would love to explore those as well.
+          <br />
         </p>
       </div>
     </div>

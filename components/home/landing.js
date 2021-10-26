@@ -6,7 +6,9 @@ export default function landing() {
   return (
     <div>
       <div className={styles.landingArea}>
-        <h2 className={styles.landingText}>Welcome.</h2>
+        <h2 className={styles.landingText} id="solidLoad">
+          Welcome.
+        </h2>
         <div className={styles.landingImage}>
           <Image src={splashImage} width={720} height={720} />
         </div>

@@ -1,0 +1,24 @@
+.contactPage {
+  border-bottom: 3px solid darkslategray;
+  width: 90vw;
+  margin: auto;
+  min-height: 82vh;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.linkArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.linkText {
+  font-size: 25px;
+  color: darkslategray;
+  margin: 10px 0;
+  text-align: center;
+}
